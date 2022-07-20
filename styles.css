@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+
+body {background-color: #f1f1f1;
+color: #0f141e;
+
+/*font-size: 16px;
+font-weight: normal;
+font-family: Roboto, sans-serif; */
+
+font: normal 16px Roboto, sans-sarif;
+
+}
+
+.myavatar{ 
+   width: 100px;
+   border-radius: 28px;
+   box-shadow: 4px 4px 14px rgba(10,60,90,25);
+}
+
+.info p{
+color: #86898f;
+margin: 0;
+font-style: italic;
+font-weight: bold;
+text-decoration: none;
+   }
+
+.container{
+   max-width: 750px;
+   margin: auto;
+}
+
+a {
+color: black;
+}
+
+a:hover{
+   text-decoration: line-through;
+   color: red;
+}
+
+a:visited{
+   text-decoration: line-through;
+   color:red;
+}
+
+
+   /* Box model 
+   .social {
+      background: green;
+      padding-top:15px;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-bottom: 15px;
+
+      border: 3px solid red;
+      border-bottom-color: blue;
+      margin:20px;
+   } */
+
+
+
+ /*  .box-model > div{
+float: left;
+background: black;
+height: 200px;
+width: 25%;
+border-width: 1px 1px 1px 1px;
+border: solid red;
+box-sizing: border-box; 
+   }*/
